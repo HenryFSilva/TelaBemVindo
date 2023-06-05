@@ -1,0 +1,67 @@
+.questoes{
+    background-color: darkblue;
+}
+
+.apresentacao{
+    background-color: darkblue;
+    color: white;
+    text-align: center;
+    border: 3px solid black;
+    padding: 15px;
+
+}
+ 
+.cubo{
+    background-color: lightgray;
+    border: 3px solid black;
+    padding: 15px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+.temperatura{
+    background-color: lightgray;
+    border: 3px solid black;
+    padding: 15px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.triangulo{
+    background-color: lightgray;
+    border: 3px solid black;
+    padding: 15px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+
+/* 4 */
+.circulo{
+    background-color: lightgrey;
+    border: 3px solid black;
+    padding: 15px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+/* 5 */
+.porcentagem{
+    background-color: lightgrey;
+    border: 3px solid black;
+    padding: 15px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+/* 6 */
+.nascimento{
+    background-color: lightgrey;
+    border: 3px solid black;
+    padding: 15px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+/* 7 */
+.km{
+    background-color: lightgray;
+    border: 3px solid black;
+    padding: 15px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
